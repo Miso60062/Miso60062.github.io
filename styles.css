@@ -31,11 +31,11 @@ z-index: 10;
   border: none;
   position: absolute;
   width: 5vw;
-  height: 5vh;
+  height: 9vh;
   left: 1.5vw;
-  top: 2vh;
+  top: .5vh;
   margin-top: 3em;
-  border-radius: 25rem;
+  border-radius: 10rem;
 }
 
 .btn:hover {
@@ -56,10 +56,10 @@ background: red;
   left: 50%;
   transform: translate(-50%, -50%) scale(0);
   transition: 200ms ease-in-out;
-  border: 1px solid black;
-  border-radius: 10px;
+  border: 1px solid rgb(48, 12, 12);
+  border-radius: .5rem;
   z-index: 10;
-  background-color: rgb(88, 20, 20);
+  background-color: rgb(75, 15, 15);
   color: white;
   width: 500px;
   max-width: 80%;
