@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name=description content="Author: Michal Lengyel, personal portfolio with shortcuts to personal projects">
+    <link href="styles.css" rel="stylesheet">
+    <link href="images/Icon.svg" rel="icon">
+    <script src="script.js" defer></script>
+    <script src="//cdn.rawgit.com/mrdoob/three.js/master/build/three.min.js"></script>
+    <script type="module" src="3d.js"></script>
+    <title>Portfolio</title>
+</head>
+<body>
+    <div class="navbar">
+        <button id="github" class="btn btn-one">
+            <img src="images/GitHub-Mark-120px-plus.png" alt="My Github Repositories">
+        </button>
+        <button id="email" class="btn btn-two" data-modal-target="#modal">
+            <img src="images/Email Large.svg" alt="My Contact Email">
+        </button>
+    </div>
+    <div class="modal" id="modal">
+    <div class ="modal-header">
+    <div class="title">Contact Me:</div>
+    <button data-close-button class="close-button">&times;</button>
+    </div>
+    <div class="modal-body">You can contact me on my email adress: miso60062@gmail.com<br>
+        I know: HTML5, CSS3, JS, Git, JQuery, Google debugging tools, React, ThreeJs, Search Engine and more.
+    </div>
+ </div>
+            <div id="overlay"></div>
+    <div class="main"><canvas id="c"></canvas></div>
+    <div class="projects">
+    </div>
+    <div class="project project-one">
+            <p class="com com1">This is an example of an API used for fetching jokes.</p>
+        <button class="imgb" id="p1">
+            <img src="images/JokesApi.JPG" alt="Picture and destination to the repository of a Jokes Api project">
+        </button>
+    </div>
+    <div class="project project-two">
+            <p class="com com2">This is an example of a Landing Page</p> 
+        <button class="imgb" id="p2">
+            <img  class="images" src="images/Landing.JPG" alt="Picture and destination to the repository of a Landing Page project">
+        </button>
+    </div>
+    <div class="project project-three">
+            <p class="com com3">This is an example of one way converter.</p>
+        <button class="imgb" id="p3">
+            <img src="images/Binary converter.JPG" alt="Picture and destination to the repository of a Text to Binary Converter project">
+        </button>
+    </div>
+    <footer class="footer">
+    <div class="about"><p>About me</p>
+    <p class="me">
+        My name is Michal-(Michael) Lengyel and
+        I enjoy to design things, learn new things and make things more interesting.
+        I know several programming languages and tools, including but not limited to: HTML5, CSS3, JS, JQuery, Google debugging tools, React, Search Engine and more. 
+    </p>
+    </div>
+    </footer>
+</body>
+</html>
