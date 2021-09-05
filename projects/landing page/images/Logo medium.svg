@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="74mm"
+   height="52mm"
+   viewBox="0 0 74 52"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Logo.svg">
+  <defs
+     id="defs839" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2"
+     inkscape:cx="139.5"
+     inkscape:cy="98"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata842">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="layer1-0"
+       inkscape:label="Layer 1"
+       transform="matrix(2.2919407,0,0,3.057873,-187.10586,-411.77405)">
+      <polyline
+         transform="matrix(0.6818415,0,0,0.629984,96.543077,136.95115)"
+         id="polyline833"
+         points="22 4 12 14.01 9 11.01"
+         style="fill:none;stroke:#0ce67d;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.01325226px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.17533131;stroke-opacity:1;"
+       x="5.5255752"
+       y="19.180906"
+       id="text1418"
+       transform="scale(0.91578388,1.0919607)"><tspan
+         sodipodi:role="line"
+         id="tspan1416"
+         x="5.5255752"
+         y="19.180906"
+         style="stroke:none;stroke-width:0.17533131;stroke-opacity:1;fill:#ffffff;">CLOUD SERVERS</tspan><tspan
+         sodipodi:role="line"
+         x="5.5255752"
+         y="27.947472"
+         style="stroke:none;stroke-width:0.17533131;stroke-opacity:1;fill:#ffffff;"
+         id="tspan1420">OF CAN DO</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#0ce67d;stroke-width:1.30214572;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 4.0870569,38.060603 68.154373,37.770493"
+       id="path1422"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

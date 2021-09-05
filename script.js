@@ -11,15 +11,15 @@ github.addEventListener('click', () => {
 })
 
 converter.addEventListener('click', () => {
-    location.href = 'https://github.com/Miso60062/String-Converters'
+    location.href = 'projects/String to binary/index.html'
 })
 
 landing.addEventListener('click', () => {
-    location.href = 'https://github.com/Miso60062/Landing-Page-Design'
+    location.href = 'projects/landing page/index.html'
 })
 
 jk.addEventListener('click', () => {
-    location.href = 'https://github.com/Miso60062/JokesProject'
+    location.href = 'projects/Jokes API/index.html'
 })
 
 openModalButtons.forEach(button => {
