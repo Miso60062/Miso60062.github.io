@@ -8,10 +8,12 @@ html, body {
 }
 
 body {
-display: flex;
-background: #000000;
-color: white;
+    overflow-x: hidden;
+    display: flex;
+    background: #000000;
+    color: white;
 }
+
 
 .navbar {
 position: relative;
