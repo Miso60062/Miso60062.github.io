@@ -8,12 +8,11 @@ html, body {
 }
 
 body {
-    overflow-x: hidden;
-    display: flex;
-    background: #000000;
-    color: white;
+overflow-x: hidden;
+display: flex;
+background: #000000;
+color: white;
 }
-
 
 .navbar {
 position: relative;
@@ -26,6 +25,11 @@ border-bottom-right-radius: 20rem;
 
 background: #bd2020;
 z-index: 10;
+}
+
+.navbar .btn-one {
+      max-width: 100%;
+      height: auto;
 }
 
 .btn {
@@ -115,7 +119,6 @@ background: transparent;
   height: 100%;
   display: block;
   z-index: 10;
-
 }
 
 img {
@@ -246,19 +249,19 @@ background: #611818;
   }
 
   .btn-one {
-    width: 15vw;
+    width: 11vw;
     left: 5vw;
     top: 2vh;
   }
 
   .btn-two {
-    width: 5vh;
+    width: 11vw;
     left: 14vw;
     top: 2vh;
   }
 
   .projects {
-    height: 80vh;
+    height: 100vh;
   }
 
   .project {
@@ -281,7 +284,7 @@ background: #611818;
     height: 40vh;
     width: 100vw;
     left: 0vw;
-    top: 140vh;
+    top: 160vh;
   }
 
   .about {
@@ -300,14 +303,14 @@ background: #611818;
 
 @media screen and (max-width: 320px) {
   .btn-one {
-    width: 17vw;
+    width: 12vw;
     left: 4vw;
     top: 2vh;
   }
 
   .btn-two {
-    width: 5vh;
+    width: 6vh;
     left: 13vw;
-    top: 2vh;
+    top: 2.4vh;
   }
 }
